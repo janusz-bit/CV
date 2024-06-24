@@ -1,0 +1,28 @@
+project:
+  type: website
+  output-dir: docs
+
+# website:
+  # title: "CV"
+  # navbar:
+  #   left:
+  #     - href: index.qmd
+  #       text: CV
+  #     - href: index.qmd#sec-1
+  #       text: Roboty
+
+format:
+  html:
+    # number-sections: true
+    fig-responsive: true
+    lang: "pl"
+    fig-align: center
+    css: styles.css
+    toc: true
+    theme: 
+      dark: darkly
+      light: cosmo
+      
+
+
+

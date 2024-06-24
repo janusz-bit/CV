@@ -1,0 +1,6 @@
+/.quarto/
+/_site/
+/docs/
+/result
+/result-*
+/.direnv/
